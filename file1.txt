@@ -1,3 +1,11 @@
 Hola
 Aquest és un arxiu creat amb nano
 :)
+
+He fet un fork des de Terminal
+mkdir build && cd build
+$ cmake ..
+$ make webcam_capture
+$./webcam_capture 
+.....Opening video device 0
+
